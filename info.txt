@@ -1,0 +1,12 @@
+Formula one web in czech language
+English option in future
+Include free online game
+
+
+original web can be found here:
+jirasek-original.netlify.app
+
+-----------------------------------
+
+current web revision:
+jirasek.netlify.app
